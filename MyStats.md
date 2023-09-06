@@ -22,3 +22,13 @@ Now I'm going to describe some of the sports names which are good for both physi
 
 ``` Somewhere, something incredible is waiting to be known```-*Carl Sagan*
 
+---
+
+# Meta Refresh using HTML 
+```
+<meta http-equiv="refresh" content="5;url=http://example.com/" />
+```
+[Meta Refresh in HTML]<https://stackoverflow.com/questions/8711888/auto-refresh-code-in-html-using-meta-tags>
+
+[Meta Refresh in HTML for snippet source]<https://css-tricks.com/snippets/html/meta-refresh/>
+
