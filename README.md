@@ -14,6 +14,9 @@ The beautiful hill town of Manali is well-known for its stunning landscapes and 
 * khatta
 * Chana Madra
 
+[Link for MyStats is here](https://github.com/kumarchandu21/my2-Mallireddy/blob/main/MyStats.md)
+
+
 
 
 
